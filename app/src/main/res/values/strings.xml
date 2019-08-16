@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Menu de Comidas</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="name">nombre</string>
+    <string name="price">precio</string>
+    <string name="button_save">Save</string>
+</resources>

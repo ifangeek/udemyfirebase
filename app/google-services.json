@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "575592339862",
+    "firebase_url": "https://menudecomidas-1ea99.firebaseio.com",
+    "project_id": "menudecomidas-1ea99",
+    "storage_bucket": "menudecomidas-1ea99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575592339862:android:6f874077045a84a4",
+        "android_client_info": {
+          "package_name": "com.example.menudecomidas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575592339862-old86s0vpd6bleut4v6dp8m3gvvqms45.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.menudecomidas",
+            "certificate_hash": "2cb6e83edb08baa669fab8a968903b1e6da75453"
+          }
+        },
+        {
+          "client_id": "575592339862-73g0fborddfruvd43uhv8fi9h490fl3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp5j6TkufflsX7a4-IuWYu9iZdAHysgJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575592339862-73g0fborddfruvd43uhv8fi9h490fl3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
